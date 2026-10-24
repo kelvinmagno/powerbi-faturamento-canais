@@ -8,7 +8,7 @@ Praticar a organização de indicadores comerciais em uma página, explorando a 
 
 ## Contexto e fonte dos dados
 
-Projeto de caráter educacional. A referência do exercício e a origem detalhada da base ainda estão em confirmação.
+Projeto de caráter educacional desenvolvido seguindo uma atividade do livro *Power BI: do BI até os dashboards*, de **Cristiano Malaspina**.
 
 ## Perguntas exploradas
 
@@ -75,7 +75,9 @@ A análise foi feita a partir do PDF. As fórmulas, o modelo de dados, a unidade
 ## Créditos
 
 - **Desenvolvido por:** Kelvin Magno.
-- **Referência do exercício e fonte detalhada dos dados:** em confirmação.
+- **Referência do exercício:** *Power BI: do BI até os dashboards*.
+- **Autor do livro:** Cristiano Malaspina.
+- **Contexto:** atividade de estudo baseada no livro.
 
 ## Autor
 
